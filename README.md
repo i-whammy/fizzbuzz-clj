@@ -1,36 +1,21 @@
-# fizzbuzz
+# fizzbuzz-clj
 
-FIXME: description
+Sample project for fizzbuzz in clojure.
 
-## Installation
+## Specs.
 
-Download from http://example.com/FIXME.
+- When you post multiple of 3, fizzbuzz-clj says "fizz".
+- When you post multiple of 5, fizzbuzz-clj says "buzz".
+- When you post multiple of 15, fizzbuzz-clj says "fizz-buzz".
+- Otherwise fizzbuzz-clj says what you post.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar fizzbuzz-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ java -jar fizzbuzz-0.1.0-standalone.jar [any number]
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 i-whammy
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
