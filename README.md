@@ -7,7 +7,8 @@ Sample project for fizzbuzz in clojure.
 - When you post multiple of 3, fizzbuzz-clj says "fizz".
 - When you post multiple of 5, fizzbuzz-clj says "buzz".
 - When you post multiple of 15, fizzbuzz-clj says "fizz-buzz".
-- Otherwise fizzbuzz-clj says what you post.
+- When you post non-multiple of3, 5, nor 15, fizzbuzz-clj says what you post.
+- When you post not-number, fizzbuzz-clj says "Panicked!".
 
 ## Usage
 
